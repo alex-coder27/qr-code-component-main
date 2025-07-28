@@ -1,0 +1,13 @@
+:root {
+    --color-primary-1:hsl(216, 15%, 48%);
+    --color-primary-2:hsl(218, 44%, 22%);
+    --color-primary-3: hsl(228, 45%, 44%);
+    
+    --color-neutral-1: hsl(0, 0%, 100%);
+    --color-neutral-2: hsl(212, 45%, 89%);
+
+    --font-family-primary: 'Outfit';
+
+    --font-weight-regular: 400;
+    --font-weight-bold: 700;
+}

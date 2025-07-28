@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: var(--font-family-primary);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    font-size: 1.5rem;
+    font-weight: var(--font-weight-regular);
+    background-color: var(--color-neutral-2);
+}
+
+.page-wrapper {
+    max-width: 144rem;
+    margin: 0 auto;
+}
+
