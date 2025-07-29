@@ -23,6 +23,21 @@ O desafio consistia em criar um cartão simples contendo um código QR, um títu
 -   CSS personalizado (com variáveis CSS para cores e fontes)
 -   Flexbox para layout
 
+## Como Executar o Projeto
+
+Siga estas etapas para configurar e executar o projeto localmente:
+
+1.  **Clone o repositório (se estiver em um):**
+    ```bash
+    git clone https://github.com/alex-coder27/qr-code-component-main.git
+    ```
+2.  **Navegue até a pasta do projeto:**
+    ```bash
+    cd qr-code-component-main
+    ```
+3.  **Abra o arquivo `index.html` no seu navegador:**
+    Você pode simplesmente arrastar o `index.html` para a janela do seu navegador ou usar uma extensão de "Live Server" em seu editor de código (como o VS Code) para uma melhor experiência de desenvolvimento.
+
 ## 👤 Autor
 
 - **GitHub:** [alex-coder27](https://github.com/alex-coder27)
