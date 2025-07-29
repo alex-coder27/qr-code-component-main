@@ -11,7 +11,7 @@ main {
     background-color: var(--color-neutral-1);
     padding: 1.6rem;
     padding-block-end: 4rem;
-    border-radius: 1rem;
+    border-radius: 2rem;
     text-align: center;
 }
 
