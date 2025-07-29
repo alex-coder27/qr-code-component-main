@@ -42,3 +42,13 @@ main {
     color: var(--color-primary-1);
 }
 
+.attribution {
+    font-size: 1.4rem;
+    text-align: center;
+    margin-block-start: 3rem;
+}
+
+.attribution a {
+    color: var(--color-primary-3);
+    text-decoration: underline;
+}
